@@ -1,0 +1,6 @@
+Debug/*
+x64/*
+Path Finder.vcxproj
+Path Finder.vcxproj.filters
+Path Finder.vcxproj.user
+SDL2.dll
